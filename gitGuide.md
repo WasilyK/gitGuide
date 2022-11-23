@@ -26,3 +26,5 @@
 * [Для Linux](https://git-scm.com/download/linux)
 
 * [Для Mac](https://git-scm.com/download/mac)
+
+## Команды Vim:
