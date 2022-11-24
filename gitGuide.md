@@ -28,3 +28,5 @@
 * [Для Mac](https://git-scm.com/download/mac)
 
 ## Команды Vim:
+
+* **vim file_name** - *открытие (создание) файла с именем file_name*
