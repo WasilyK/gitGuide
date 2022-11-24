@@ -28,3 +28,5 @@
 * [Для Mac](https://git-scm.com/download/mac)
 
 ## Команды Vim:
+
+* **Press: Esc** - для перехода в командный режим
