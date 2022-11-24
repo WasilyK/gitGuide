@@ -28,3 +28,5 @@
 * [Для Mac](https://git-scm.com/download/mac)
 
 ## Команды Vim:
+
+* **Enter: i** - *нажатие на i, переводит в режим ввода*
